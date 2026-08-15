@@ -1,0 +1,19 @@
+{
+  "framework": null,
+  "outputDirectory": ".",
+  "cleanUrls": true,
+  "trailingSlash": true,
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" },
+    { "source": "/about-us", "destination": "/about-us/" },
+    { "source": "/about-us/one-team", "destination": "/about-us/one-team/" },
+    { "source": "/about-us/esg", "destination": "/about-us/esg/" },
+    { "source": "/portfolios", "destination": "/portfolios/" },
+    { "source": "/portfolios/international-growth", "destination": "/portfolios/international-growth/" },
+    { "source": "/news-insights", "destination": "/news-insights/" },
+    { "source": "/contact-us", "destination": "/contact-us/" },
+    { "source": "/contact-us/contact-us-redirect", "destination": "/contact-us/" },
+    { "source": "/social-media-guidelines", "destination": "/social-media-guidelines/" },
+    { "source": "/investment-strategies/international-growth", "destination": "/portfolios/international-growth/" }
+  ]
+}
