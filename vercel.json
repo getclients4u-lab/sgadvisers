@@ -6,14 +6,30 @@
   "rewrites": [
     { "source": "/", "destination": "/index.html" },
     { "source": "/about-us", "destination": "/about-us/" },
+    { "source": "/about-us/one-philosophy", "destination": "/about-us/one-philosophy/" },
+    { "source": "/about-us/one-process", "destination": "/about-us/one-process/" },
     { "source": "/about-us/one-team", "destination": "/about-us/one-team/" },
     { "source": "/about-us/esg", "destination": "/about-us/esg/" },
     { "source": "/portfolios", "destination": "/portfolios/" },
     { "source": "/portfolios/international-growth", "destination": "/portfolios/international-growth/" },
+    { "source": "/investment-strategies/international-growth", "destination": "/portfolios/international-growth/" },
+    { "source": "/investment-strategies/emerging-markets-growth", "destination": "/investment-strategies/emerging-markets-growth/" },
+    { "source": "/investment-strategies/global-focused-growth", "destination": "/investment-strategies/global-focused-growth/" },
+    { "source": "/investment-strategies/global-growth", "destination": "/investment-strategies/global-growth/" },
+    { "source": "/investment-strategies/global-mid-cap-growth", "destination": "/investment-strategies/global-mid-cap-growth/" },
+    { "source": "/investment-strategies/sga-global-growth-fund-au", "destination": "/investment-strategies/sga-global-growth-fund-au/" },
+    { "source": "/investment-strategies/us-focused-growth", "destination": "/investment-strategies/us-focused-growth/" },
+    { "source": "/investment-strategies/us-large-cap-growth", "destination": "/investment-strategies/us-large-cap-growth/" },
     { "source": "/news-insights", "destination": "/news-insights/" },
+    { "source": "/news-insights/commentaries-archive", "destination": "/news-insights/commentaries-archive/" },
     { "source": "/contact-us", "destination": "/contact-us/" },
+    { "source": "/contact-us/nearby-hotels-and-restaurants", "destination": "/contact-us/nearby-hotels-and-restaurants/" },
     { "source": "/contact-us/contact-us-redirect", "destination": "/contact-us/" },
     { "source": "/social-media-guidelines", "destination": "/social-media-guidelines/" },
-    { "source": "/investment-strategies/international-growth", "destination": "/portfolios/international-growth/" }
+    { "source": "/search", "destination": "/search.html" },
+    { "source": "/style-guide", "destination": "/style-guide.html" },
+    { "source": "/style-guide/content-areas", "destination": "/style-guide/content-areas/" },
+    { "source": "/style-guide/pods", "destination": "/style-guide/pods/" },
+    { "source": "/style-guide/typography", "destination": "/style-guide/typography/" }
   ]
 }

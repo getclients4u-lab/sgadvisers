@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://sgadvisers.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://sgadvisers.com/about-us/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://sgadvisers.com/about-us/one-team/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://sgadvisers.com/about-us/esg/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://sgadvisers.com/portfolios/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://sgadvisers.com/portfolios/international-growth/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://sgadvisers.com/news-insights/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://sgadvisers.com/contact-us/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://sgadvisers.com/social-media-guidelines/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://sgadvisers.com/search</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sgadvisers.com/about-us</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://sgadvisers.com/about-us/one-philosophy</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sgadvisers.com/about-us/one-process</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sgadvisers.com/about-us/one-team</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sgadvisers.com/about-us/esg</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sgadvisers.com/portfolios</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://sgadvisers.com/portfolios/international-growth</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sgadvisers.com/investment-strategies/emerging-markets-growth</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sgadvisers.com/investment-strategies/global-focused-growth</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sgadvisers.com/investment-strategies/global-growth</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sgadvisers.com/investment-strategies/global-mid-cap-growth</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sgadvisers.com/investment-strategies/sga-global-growth-fund-au</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sgadvisers.com/investment-strategies/us-focused-growth</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sgadvisers.com/investment-strategies/us-large-cap-growth</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sgadvisers.com/news-insights</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sgadvisers.com/news-insights/commentaries-archive</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://sgadvisers.com/contact-us</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sgadvisers.com/contact-us/nearby-hotels-and-restaurants</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://sgadvisers.com/social-media-guidelines</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://sgadvisers.com/articles</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sgadvisers.com/articles/international-growth-commentary-q2-2026</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://sgadvisers.com/articles/global-growth-commentary-q2-2026</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://sgadvisers.com/articles/us-large-cap-growth-commentary-q2-2026</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://sgadvisers.com/articles/emerging-markets-growth-commentary-q2-2026</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://sgadvisers.com/style-guide</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://sgadvisers.com/style-guide/content-areas</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://sgadvisers.com/style-guide/pods</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://sgadvisers.com/style-guide/typography</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
 </urlset>
