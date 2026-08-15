@@ -30,6 +30,7 @@
     { "source": "/style-guide", "destination": "/style-guide.html" },
     { "source": "/style-guide/content-areas", "destination": "/style-guide/content-areas/" },
     { "source": "/style-guide/pods", "destination": "/style-guide/pods/" },
-    { "source": "/style-guide/typography", "destination": "/style-guide/typography/" }
+    { "source": "/style-guide/typography", "destination": "/style-guide/typography/" },
+    { "source": "/faq", "destination": "/faq/" }
   ]
 }
